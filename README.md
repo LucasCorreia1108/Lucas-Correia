@@ -2,10 +2,10 @@
 @@ -1 +1,34 @@
 ## Olá ! Eu sou o Lucas Correia 
 
-- 🔭 Atualmente trabalho na Pague Menos como Desenvolvedor .
-- 🌱 Tenho Estudado Asp.Net Core 
-- 🤔 Posso colaborar com conhecimentos sobre programação .Net
-- 📭 Meu contato : https://www.linkedin.com/in/lucas-correia-08ba65199/
+- 🏥 Atualmente trabalho na Pague Menos como Desenvolvedor .
+- 💻 Estou estudando Asp.Net Core, React.js
+- 📧 Email : lucascorreianasc1108@gmail.com
+- 💼 Meu LinkedIn : https://www.linkedin.com/in/lucas-correia-08ba65199/
 
 
 <div align="LEFT">
